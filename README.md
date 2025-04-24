@@ -1,5 +1,5 @@
 ## ShrutiShimpi25.github.io
-   Welcome to my protfolio website
+   Welcome to my portfolio website
  
 ## About Me
   i am a Computer Science student passionate about Data Science ,Machine Learning & python Programming.
